@@ -43,3 +43,5 @@ yarn dev
 username: admin
 password: admin
 ```
+
+For employees, the username and password are the number of dni
