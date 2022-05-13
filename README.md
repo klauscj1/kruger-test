@@ -36,3 +36,10 @@ cd client
 yarn
 yarn dev
 ```
+
+#### Admin user (web)
+
+```
+username: admin
+password: admin
+```
